@@ -77,4 +77,5 @@ Feel free to use, modify, and share with reference to the author!
 ## 🤝 Author
 
 **Shayan Salehi**
+Email: shayansalehisut@gmail.com
 
